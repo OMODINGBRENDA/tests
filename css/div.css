@@ -1,0 +1,29 @@
+#one{
+    background-color: gold;
+    font-size: 40px;
+    font-family: Serif;
+    border-radius: 20px ;
+    border: red 30px solid;
+    text-align: center;
+
+}
+#two{
+    background-color: grey;
+    font-size: 45px;
+text-align: center;
+    border: black 15px dotted;
+}
+#three{
+    background-color: forestgreen;
+    border-bottom: blue;
+    text-align: center;
+
+}
+#four{
+    background-color: #0c0cee
+ ;
+}
+a:hover{
+    color: coral;
+    font-size: 100px;
+}

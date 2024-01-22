@@ -1,0 +1,24 @@
+.three{
+    height: 200px;
+    float: right;
+    margin: 100px;
+    width: 400px;
+
+}
+iframe{
+    height: 759%;
+    width: 1000%;
+}
+.one{
+    height: 20px;
+    width: 30px;
+    border-radius: 40px;
+    background-color: black;
+    display: block;
+}
+.two{
+  float: left;
+    height: 40px;
+    margin: 80px;
+    padding-top: ;
+}

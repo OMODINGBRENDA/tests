@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>list</title>
+    <style>
+
+        ul{
+            list-style-type: square;
+        }
+        ol{
+            list-style-type: lower-alpha;
+        }
+        ol>li{
+            cursor: pointer;
+            color: #7c0b89;
+        }
+        ol>.one{
+            color: #0c0cee;
+            font-size: 20px;
+        }
+        ol>.one:hover{
+            background-color: cadetblue;
+        }
+        ul>.two{
+            color: darkgreen;
+            font-size: 25px;
+        }
+        ul>.two:hover{
+            background-color: magenta;
+        }
+
+    </style>
+</head>
+<body>
+
+<h3 title="this is an ordered list">< ordered list</h3>
+<ol>
+<li class="one">mango</li>
+<li>orange</li>
+<li>potato</li>
+</ol>
+<h3>unordered list</h3>
+<ul>
+    <li class="two">light green</li>
+    <li>blue</li>
+    <li>red</li>
+</ul>
+</body>
+</html>

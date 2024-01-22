@@ -1,0 +1,45 @@
+body{
+    background-color: aqua;
+    /*text-align: center;*/
+
+    margin:30px;
+}
+p{
+    color: green;
+}
+.one{
+    color: blue;
+    font-size: x-large;
+    font-family: Serif;
+    font-weight: lighter;
+}
+.two{
+    border: red 1px solid;
+    color: brown;
+    font-size:15px;
+    border-radius: 300px 50px 8px 1px;
+  padding: 8px;
+}
+.three{
+    border-radius: 5px;
+    width: 34px;
+    height: 42px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:darkred;
+    font-size:20px;
+    border-bottom: forestgreen 1px solid;
+    #one{
+        background-color:  #1e1e20 ;
+    }
+}
+#one:hover{
+    color:  #1e1e20 ;
+
+}
+
+
